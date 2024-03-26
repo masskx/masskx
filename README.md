@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![yz](yz.png)
 
 <!--
 **masskx/masskx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![yz](yz.png)
 
 Here are some ideas to get you started:
 
