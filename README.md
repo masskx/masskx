@@ -1,5 +1,7 @@
-![yx](yx.png)
 
+<div align="center">
+    ![yx](yx.png)
+</div>
 <!--
 
 ### Hi there 👋
