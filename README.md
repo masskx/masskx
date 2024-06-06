@@ -1,7 +1,7 @@
 
-<div align="center">
-    ![yx](yx.png)
-</div>
+<p align="center">
+  <img src="yx.png" alt="yx">
+</p>
 <!--
 
 ### Hi there 👋
