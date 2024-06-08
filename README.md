@@ -15,9 +15,6 @@
 - "因嫌纱帽小，致使锁枷扛，昨怜破袄寒，今嫌紫蟒长。" - Because of despising the small official hat, one ends up carrying the cangue; yesterday pitying the torn coat for being cold, today despising the long python robe.
 - "乱烘烘你方唱罢我登场，反认他乡是故乡。" - In the chaotic hustle and bustle, you finish singing and I go on stage, mistaking other places as the hometown.
 - "甚荒唐，到头来都是为他人作嫁衣裳！" - How absurd, in the end, it's all about making wedding clothes for others!
-
-Please note that this translation is quite literal and may not fully capture the poetic nuances and cultural references of the original text.
-
 <!--
 ### Hi there 👋
 #### 为学日益，为道日损
