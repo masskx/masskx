@@ -5,7 +5,7 @@
 
 **人的欲望，就如同高山滚石一般，一旦开始，就再也停不下来了。**
 
-<font align="center" face="微软雅黑" size=6 color=#FF0000 >微软雅黑字体</font>
+<center>这一行需要居中</center>
 
 <!--
 ### Hi there 👋
